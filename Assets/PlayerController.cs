@@ -31,7 +31,7 @@ public class PlayerController : MonoBehaviour
 
 
 anim.SetFloat("Speed", Mathf.Abs(rb.velocity.x));
-anim.SetFloat("Height", jumpHeight);
+anim.SetFloat("Height", rb.velocity.y);
 anim.SetBool("Grounded", grounded);
 Debug.Log("Speed: " + rb.velocity.x + " | grounded: " + grounded);
 
