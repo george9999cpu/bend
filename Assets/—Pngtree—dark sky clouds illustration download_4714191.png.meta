@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c3785bf6a58a1e74fa07501cb8919d3d
+guid: 1fe71ffba90d68d4f8ae5bfb10570c3a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,112 +103,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: trees and green objects_0
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 76
-        width: 98
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2b3a897f600faf429696ef1ad797aed
-      internalID: 1108533691
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trees and green objects_1
-      rect:
-        serializedVersion: 2
-        x: 121
-        y: 136
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 529d8e43e09a23043b0a65569dac607f
-      internalID: -364306295
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trees and green objects_2
-      rect:
-        serializedVersion: 2
-        x: 185
-        y: 136
-        width: 48
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 521442d3a7b3524429a25c3d87a332a7
-      internalID: -1048050415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trees and green objects_3
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 16
-        width: 48
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c74f0b225e9ede478fc4c92b4e2b19e
-      internalID: 1276670436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trees and green objects_4
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 16
-        width: 123
-        height: 114
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ef75db20c4abbf49953a7e82f895efa
-      internalID: -703821745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -219,12 +114,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      trees and green objects_0: 1108533691
-      trees and green objects_4: -703821745
-      trees and green objects_2: -1048050415
-      trees and green objects_1: -364306295
-      trees and green objects_3: 1276670436
+    nameFileIdTable: {}
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

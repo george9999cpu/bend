@@ -2,16 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-
-
 public class BrickBreak : MonoBehaviour
 {
-    private SpriteRenderer sr;       // handles the block’s sprite
-    public Sprite explodedBlock;     // drag the “exploded” sprite here in Inspector
+    // Start is called before the first frame update
+    private SpriteRenderer sr;       // used to change the sprite
+    public Sprite explodedBlock;     // the sprite to change into
 
     void Start()
     {
-        // get the SpriteRenderer attached to this block
+        // get the SpriteRenderer component
         sr = GetComponent<SpriteRenderer>();
     }
 
@@ -30,4 +29,3 @@ public class BrickBreak : MonoBehaviour
         }
     }
 }
-
